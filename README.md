@@ -47,6 +47,7 @@ A curated list of awesome [flake-parts](https://flake.parts/) resources, modules
 ## Example Projects
 
 - [nixos-config](https://github.com/srid/nixos-config) - NixOS configuration with flake-parts.
+- [Vic's *Nix config.](https://github.com/vic/vix) - Very clean personal nix configurions using flake-parts (and [import-tree](https://github.com/vic/import-tree)).
 
 ## Community
 
