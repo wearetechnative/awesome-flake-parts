@@ -6,7 +6,6 @@ A curated list of awesome [flake-parts](https://flake.parts/) resources, modules
 
 - [Official Resources](#official-resources)
 - [Tutorials](#tutorials)
-- [Videos](#videos)
 - [Blog Posts](#blog-posts)
 - [Flake Modules](#flake-modules)
 - [Example Projects](#example-projects)
