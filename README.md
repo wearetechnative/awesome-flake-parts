@@ -1,5 +1,7 @@
 # Awesome Flake Parts [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 
+**WIP: this list is initially generated with Clause. There are errors. Please have patience before humans will fix these**
+
 A curated list of awesome [flake-parts](https://flake.parts/) resources, modules, and examples. Flake-parts is a framework for writing Nix Flakes that provides a modular approach to flake configuration.
 
 ## Contents
@@ -52,7 +54,6 @@ A curated list of awesome [flake-parts](https://flake.parts/) resources, modules
 - [nixos-flake](https://github.com/srid/nixos-flake) - Opinionated NixOS configuration with flake-parts.
 - [flake-root](https://github.com/srid/flake-root) - Discover project root directory.
 - [mission-control](https://github.com/Platonic-Systems/mission-control) - Centralized command dashboard.
-- [flake-utils-plus](https://github.com/gytis-ivaskevicius/flake-utils-plus) - Extended utilities for flake-parts.
 - [nix-filter](https://github.com/numtide/nix-filter) - File filtering utilities.
 - [systems-nix](https://github.com/nix-systems/nix-systems) - System definition utilities.
 - [flake-programs-sqlite](https://github.com/wamserma/flake-programs-sqlite) - SQLite database for programs.
