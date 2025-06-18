@@ -21,10 +21,7 @@ A curated list of awesome [flake-parts](https://flake.parts/) resources, modules
 ## Tutorials
 
 - [flake-parts to set up nodejs devshell](https://blog.eigenvalue.net/2024-flake-parts-nodejs-devshell/) - Tutorial about using flake-parts to set up a nodejs devshell.
-
-## Videos
-
-...
+- [Flake-parts: writing custom flake modules](https://vtimofeenko.com/posts/flake-parts-writing-custom-flake-modules/) - A primer on writing flake-parts reusable flake modules.
 
 ## Blog Posts
 
@@ -45,8 +42,8 @@ A curated list of awesome [flake-parts](https://flake.parts/) resources, modules
 - [nixos-flake](https://github.com/srid/nixos-flake) - Opinionated NixOS configuration with flake-parts.
 - [flake-root](https://github.com/srid/flake-root) - Discover project root directory.
 - [nix-gaming](https://github.com/fufexan/nix-gaming) - Gaming tools and configurations.
-- https://github.com/flake-parts/community.flake.parts
-- https://community.flake.parts
+- [community.flake.parts](https://github.com/flake-parts/community.flake.parts) - A Community website with links to several flake-module projects.
+- [services flake](https://github.com/juspay/services-flake) -  NixOS-like services for Nix as flake modules.
 
 ## Example Projects
 
