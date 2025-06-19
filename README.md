@@ -25,7 +25,6 @@ A curated list of awesome [flake-parts](https://flake.parts/) resources, modules
 ## Blog Posts
 
 - [Refactoring My Infrastructure As Code Configurations](https://not-a-number.io/2025/refactoring-my-infrastructure-as-code-configurations/) - About a migration from host-centric to feature centric nixos configuration.
-- [The Dendritic Pattern](https://github.com/mightyiam/dendritic) - Nix flake-parts usage pattern in which every Nix file is a flake-parts module.
 
 ## Flake Modules
 
@@ -45,10 +44,18 @@ A curated list of awesome [flake-parts](https://flake.parts/) resources, modules
 - [community.flake.parts](https://github.com/flake-parts/community.flake.parts) - A Community website with links to several flake-module projects.
 - [services flake](https://github.com/juspay/services-flake) -  NixOS-like services for Nix as flake modules.
 
-## Example Projects
+## Related Patterns, Frameworks, Utilities and Libraries
 
-- [nixos-config](https://github.com/srid/nixos-config) - NixOS configuration with flake-parts.
-- [Vic's *Nix config.](https://github.com/vic/vix) - Very clean personal nix configurions using flake-parts (and [import-tree](https://github.com/vic/import-tree)).
+- [The Dendritic Pattern](https://github.com/mightyiam/dendritic) - Nix flake-parts usage pattern in which every Nix file is a flake-parts module.
+- [Unify](https://codeberg.org/quasigod/unify/) - Framework for unifying multiple types of Nix configurations.
+- [import-tree](https://github.com/vic/import-tree) - Import all nix files in a directory tree.
+
+## Personal Dotfiles & Infra repo's
+
+- [srid/nixos-config](https://github.com/srid/nixos-config) - NixOS configuration with flake-parts.
+- [vic/vix](https://github.com/vic/vix) - Vic's *Nix config with flake-parts and [import-tree](https://github.com/vic/import-tree).
+- [mightyiam/infra](https://github.com/mightyiam/infra) - Shahar "Dawn" Or (mightyiam)'s personal Nix-powered IT infrastructure repository.
+- [quasigod/nixconfig](https://codeberg.org/quasigod/nixconfig) - NixOS and Home Manager configurations with flake-parts and [unify](https://codeberg.org/quasigod/unify/).
 
 ## Community
 
