@@ -20,11 +20,12 @@ A curated list of awesome [flake-parts](https://flake.parts/) resources, modules
 ## Tutorials
 
 - [flake-parts to set up nodejs devshell](https://blog.eigenvalue.net/2024-flake-parts-nodejs-devshell/) - Tutorial about using flake-parts to set up a nodejs devshell.
-- [Flake-parts: writing custom flake modules](https://vtimofeenko.com/posts/flake-parts-writing-custom-flake-modules/) - A primer on writing flake-parts reusable flake modules.
+- [Flake-parts: writing custom flake modules](https://vtimofeenko.com/posts/flake-parts-writing-custom-flake-modules/) - Primer on writing flake-parts reusable flake modules.
 
 ## Blog Posts
 
 - [Refactoring My Infrastructure As Code Configurations](https://not-a-number.io/2025/refactoring-my-infrastructure-as-code-configurations/) - Article about a migration from host-centric to feature centric nixos configuration.
+- [The Dendritic Pattern](https://github.com/mightyiam/dendritic) - Nix flake-parts usage pattern in which every Nix file is a flake-parts module.
 
 ## Flake Modules
 
