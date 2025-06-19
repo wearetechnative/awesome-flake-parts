@@ -24,7 +24,7 @@ A curated list of awesome [flake-parts](https://flake.parts/) resources, modules
 
 ## Blog Posts
 
-- [Refactoring My Infrastructure As Code Configurations](https://not-a-number.io/2025/refactoring-my-infrastructure-as-code-configurations/) - Article about a migration from host-centric to feature centric nixos configuration.
+- [Refactoring My Infrastructure As Code Configurations](https://not-a-number.io/2025/refactoring-my-infrastructure-as-code-configurations/) - About a migration from host-centric to feature centric nixos configuration.
 - [The Dendritic Pattern](https://github.com/mightyiam/dendritic) - Nix flake-parts usage pattern in which every Nix file is a flake-parts module.
 
 ## Flake Modules
