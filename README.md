@@ -49,13 +49,15 @@ A curated list of awesome [flake-parts](https://flake.parts/) resources, modules
 - [The Dendritic Pattern](https://github.com/mightyiam/dendritic) - Nix flake-parts usage pattern in which every Nix file is a flake-parts module.
 - [Unify](https://codeberg.org/quasigod/unify/) - Framework for unifying multiple types of Nix configurations.
 - [import-tree](https://github.com/vic/import-tree) - Import all nix files in a directory tree.
+- [Dendritic Nix](https://github.com/vic/dennix) - Community-driven Nix distribution based on the Dendritic pattern. 
 
-## Personal Dotfiles & Infra repo's
+## Personal Dotfiles & Infra repo's using flake-parts
 
 - [srid/nixos-config](https://github.com/srid/nixos-config) - NixOS configuration with flake-parts.
 - [vic/vix](https://github.com/vic/vix) - Vic's *Nix config with flake-parts and [import-tree](https://github.com/vic/import-tree).
 - [mightyiam/infra](https://github.com/mightyiam/infra) - Shahar "Dawn" Or (mightyiam)'s personal Nix-powered IT infrastructure repository.
 - [quasigod/nixconfig](https://codeberg.org/quasigod/nixconfig) - NixOS and Home Manager configurations with flake-parts and [unify](https://codeberg.org/quasigod/unify/).
+- [dropol/infra](https://github.com/drupol/infra) - Pol Dellaiera's configuration of all his home computers.
 
 ## Community
 
