@@ -50,6 +50,7 @@ A curated list of awesome [flake-parts](https://flake.parts/) resources, modules
 - [Unify](https://codeberg.org/quasigod/unify/) - Framework for unifying multiple types of Nix configurations.
 - [import-tree](https://github.com/vic/import-tree) - Import all nix files in a directory tree.
 - [Dendritic Nix](https://github.com/vic/dennix) - Community-driven Nix distribution based on the Dendritic pattern. 
+- [Flake-parts Builder](https://github.com/tsandrini/flake-parts-builder) - Nix flakes interactive template builder based on flake-parts written in Rust.
 
 ## Personal Dotfiles & Infra repo's using flake-parts
 
