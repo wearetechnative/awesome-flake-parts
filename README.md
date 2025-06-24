@@ -43,6 +43,7 @@ A curated list of awesome [flake-parts](https://flake.parts/) resources, modules
 - [nix-gaming](https://github.com/fufexan/nix-gaming) - Gaming tools and configurations.
 - [community.flake.parts](https://github.com/flake-parts/community.flake.parts) - A Community website with links to several flake-module projects.
 - [services flake](https://github.com/juspay/services-flake) -  NixOS-like services for Nix as flake modules.
+- [VTimofeenko/flake-modules](https://github.com/VTimofeenko/flake-modules) - A collection of reusable flake modules, incl. a nice inputs bumber.
 
 ## Related Patterns, Frameworks, Utilities and Libraries
 
@@ -59,6 +60,7 @@ A curated list of awesome [flake-parts](https://flake.parts/) resources, modules
 - [mightyiam/infra](https://github.com/mightyiam/infra) - Shahar "Dawn" Or (mightyiam)'s personal Nix-powered IT infrastructure repository.
 - [quasigod/nixconfig](https://codeberg.org/quasigod/nixconfig) - NixOS and Home Manager configurations with flake-parts and [unify](https://codeberg.org/quasigod/unify/).
 - [dropol/infra](https://github.com/drupol/infra) - Pol Dellaiera's configuration of all his home computers.
+- [VTimofeenko/monorepo-machine-config](https://github.com/VTimofeenko/monorepo-machine-config) - Monorepo containing dotfiles and machine configurations.
 
 ## Community
 
