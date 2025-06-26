@@ -44,6 +44,7 @@ A curated list of awesome [flake-parts](https://flake.parts/) resources, modules
 - [community.flake.parts](https://github.com/flake-parts/community.flake.parts) - A Community website with links to several flake-module projects.
 - [services flake](https://github.com/juspay/services-flake) -  NixOS-like services for Nix as flake modules.
 - [VTimofeenko/flake-modules](https://github.com/VTimofeenko/flake-modules) - A collection of reusable flake modules, incl. a nice inputs bumber.
+- [nixos-unified](https://github.com/srid/nixos-unified) - Flake-parts module to unify NixOS + nix-darwin + home-manager configuration in a single flake.
 
 ## Related Patterns, Frameworks, Utilities and Libraries
 
