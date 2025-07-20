@@ -62,6 +62,7 @@ A curated list of awesome [flake-parts](https://flake.parts/) resources, modules
 - [quasigod/nixconfig](https://codeberg.org/quasigod/nixconfig) - NixOS and Home Manager configurations with flake-parts and [unify](https://codeberg.org/quasigod/unify/).
 - [dropol/infra](https://github.com/drupol/infra) - Pol Dellaiera's configuration of all his home computers.
 - [VTimofeenko/monorepo-machine-config](https://github.com/VTimofeenko/monorepo-machine-config) - Monorepo containing dotfiles and machine configurations.
+- [dtomvan/puntbestanden](https://github.com/dtomvan/puntbestanden) - Tom van Dijk's monolithic, interconnected NixOS/HomeManager/Nixvim configs.
 
 ## Community
 
