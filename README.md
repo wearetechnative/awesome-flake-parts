@@ -51,6 +51,7 @@ A curated list of awesome [flake-parts](https://flake.parts/) resources, modules
 - [The Dendritic Pattern](https://github.com/mightyiam/dendritic) - Nix flake-parts usage pattern in which every Nix file is a flake-parts module.
 - [Unify](https://codeberg.org/quasigod/unify/) - Framework for unifying multiple types of Nix configurations.
 - [import-tree](https://github.com/vic/import-tree) - Import all nix files in a directory tree.
+- [flake-file](https://github.com/vic/flake-file) - Dynamically generate your flake.nix from flake-parts modules.
 - [Dendritic Nix](https://github.com/vic/dennix) - Community-driven Nix distribution based on the Dendritic pattern. 
 - [Flake-parts Builder](https://github.com/tsandrini/flake-parts-builder) - Nix flakes interactive template builder based on flake-parts written in Rust.
 
