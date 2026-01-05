@@ -21,6 +21,7 @@ A curated list of awesome [flake-parts](https://flake.parts/) resources, modules
 
 - [flake-parts to set up nodejs devshell](https://blog.eigenvalue.net/2024-flake-parts-nodejs-devshell/) - Tutorial about using flake-parts to set up a nodejs devshell.
 - [Flake-parts: writing custom flake modules](https://vtimofeenko.com/posts/flake-parts-writing-custom-flake-modules/) - Primer on writing flake-parts reusable flake modules.
+- [Dendritc Design with the Flake Parts Framework](https://github.com/Doc-Steve/dendritic-design-with-flake-parts) - A guide on how to structure your Nix code with Flake Parts using the Dendritic Pattern.
 
 ## Blog Posts
 
