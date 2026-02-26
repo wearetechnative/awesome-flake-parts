@@ -55,6 +55,7 @@ A curated list of awesome [flake-parts](https://flake.parts/) resources, modules
 - [flake-file](https://github.com/vic/flake-file) - Dynamically generate your flake.nix from flake-parts modules.
 - [Dendritic Nix](https://github.com/vic/dennix) - Community-driven Nix distribution based on the Dendritic pattern. 
 - [Flake-parts Builder](https://github.com/tsandrini/flake-parts-builder) - Nix flakes interactive template builder based on flake-parts written in Rust.
+- [Flake-Parts-Graph (fpg)](https://github.com/giomf/flake-parts-graph) - Visualize flake-parts module dependency graphs.
 
 ## Personal Dotfiles & Infra repo's using flake-parts
 
