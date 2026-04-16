@@ -26,6 +26,7 @@ A curated list of awesome [flake-parts](https://flake.parts/) resources, modules
 ## Blog Posts
 
 - [Refactoring My Infrastructure As Code Configurations](https://not-a-number.io/2025/refactoring-my-infrastructure-as-code-configurations/) - About a migration from host-centric to feature centric nixos configuration.
+- [Evaluating Den](https://not-a-number.io/2026/evaluating-den-a-dendritic-configuration-framework/) - blog about Den, A Dendritic Configuration Framework.
 
 ## Flake Modules
 
